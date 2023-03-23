@@ -19,7 +19,7 @@ int solution(std::vector <int>& vec) {
 }
 
 int main() {
-	std::vector<int> vec{ 2, 5, 1, 3, 6, 7, 8, 9, 11 };
+	std::vector<int> vec{ 2, 5, 1, 3, 6, 7, 8, 9, 10, 11 };
 	for (int i = 0; i < vec.size(); i++) {
 		std::cout << vec[i] << " ";
 	}
